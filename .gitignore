@@ -4,7 +4,5 @@ venv/
 for_publication/
 *.egg-info/
 frontend/dist/
-CLAUDE.md
 docs/_build/
 docs/_static/cost_correlations_table.csv
-customTest/
